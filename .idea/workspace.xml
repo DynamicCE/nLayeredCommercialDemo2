@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1010cec6-7bcf-42d0-8238-b7b686ae718c" name="Changes" comment="" />
+    <list default="true" id="1010cec6-7bcf-42d0-8238-b7b686ae718c" name="Changes" comment="Değişikliklerin açıklaması">
+      <change afterPath="$PROJECT_DIR$/src/business/abstracts/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/business/abstracts/ValidationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/business/concretes/EmailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/business/concretes/ValidationServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,13 +19,30 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DynamicCE"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="822fcd0d-6415-45f3-8c80-a9d8542bcaa6" />
+        <option name="url" value="https://github.com/DynamicCE/nLayeredCommercialDemo2.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -62,9 +85,23 @@
       <workItem from="1709385148574" duration="6143000" />
       <workItem from="1709402761090" duration="1312000" />
     </task>
+    <task id="LOCAL-00001" summary="Değişikliklerin açıklaması">
+      <option name="closed" value="true" />
+      <created>1709471153108</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709471153108</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="started" />
+    <MESSAGE value="Değişikliklerin açıklaması" />
+    <option name="LAST_COMMIT_MESSAGE" value="Değişikliklerin açıklaması" />
   </component>
 </project>
