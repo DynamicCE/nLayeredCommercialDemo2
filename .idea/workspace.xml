@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1010cec6-7bcf-42d0-8238-b7b686ae718c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nLayeredCommercialDemmo2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business/abstracts/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business/concretes/UserManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataAccess/abstracts/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataAccess/concretes/HibernateUserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/abstracts/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/concretes/User.java" afterDir="false" />
-    </list>
+    <list default="true" id="1010cec6-7bcf-42d0-8238-b7b686ae718c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
