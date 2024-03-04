@@ -4,7 +4,8 @@ import entity.concretes.User;
 
 public
 interface ValidationService {
-void validateEmailFormat(String email);
-void validatePasswordStrength(String password);
-    void isUserValidForRegistration( User user );
+    boolean checkUserName(String firstName,String lastName);
+boolean validateEmailFormat(String email);
+boolean validatePasswordStrength(String password);
+    boolean isUserValidForRegistration( User user );
 }
