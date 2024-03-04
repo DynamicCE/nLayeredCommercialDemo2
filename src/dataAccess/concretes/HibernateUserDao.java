@@ -9,7 +9,7 @@ class HibernateUserDao implements UserDao {
     @Override
     public
     void add ( User user ) {
-
+        System.out.println ("hibernate ile sisteme eklendi" );
     }
 
     @Override
