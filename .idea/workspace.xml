@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1010cec6-7bcf-42d0-8238-b7b686ae718c" name="Changes" comment="Mimari kuruldu">
+    <list default="true" id="1010cec6-7bcf-42d0-8238-b7b686ae718c" name="Changes" comment="Services">
+      <change afterPath="$PROJECT_DIR$/src/business/abstracts/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/business/concretes/LoginServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/business/abstracts/ValidationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/business/abstracts/ValidationService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/business/concretes/UserManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/business/concretes/UserManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/business/concretes/ValidationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/business/concretes/ValidationServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,7 @@
       <workItem from="1709380151400" duration="4516000" />
       <workItem from="1709385148574" duration="6143000" />
       <workItem from="1709402761090" duration="1312000" />
-      <workItem from="1709541926418" duration="453000" />
+      <workItem from="1709541926418" duration="1343000" />
     </task>
     <task id="LOCAL-00001" summary="Değişikliklerin açıklaması">
       <option name="closed" value="true" />
@@ -101,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709472842931</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Services">
+      <option name="closed" value="true" />
+      <created>1709542606156</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709542606156</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +119,7 @@
     <MESSAGE value="started" />
     <MESSAGE value="Değişikliklerin açıklaması" />
     <MESSAGE value="Mimari kuruldu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mimari kuruldu" />
+    <MESSAGE value="Services" />
+    <option name="LAST_COMMIT_MESSAGE" value="Services" />
   </component>
 </project>
